@@ -1,0 +1,2 @@
+rootProject.name = "Collection_list_array"
+include ':app'
